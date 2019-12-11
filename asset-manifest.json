@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/mahjong-space/static/css/main.e9172a54.chunk.css",
-    "main.js": "/mahjong-space/static/js/main.8ececdaa.chunk.js",
-    "main.js.map": "/mahjong-space/static/js/main.8ececdaa.chunk.js.map",
-    "runtime-main.js": "/mahjong-space/static/js/runtime-main.de18c23e.js",
-    "runtime-main.js.map": "/mahjong-space/static/js/runtime-main.de18c23e.js.map",
-    "static/js/2.f523dc61.chunk.js": "/mahjong-space/static/js/2.f523dc61.chunk.js",
-    "static/js/2.f523dc61.chunk.js.map": "/mahjong-space/static/js/2.f523dc61.chunk.js.map",
-    "index.html": "/mahjong-space/index.html",
-    "precache-manifest.f39593ecccc017d5e8bb616638618e11.js": "/mahjong-space/precache-manifest.f39593ecccc017d5e8bb616638618e11.js",
-    "service-worker.js": "/mahjong-space/service-worker.js",
-    "static/css/main.e9172a54.chunk.css.map": "/mahjong-space/static/css/main.e9172a54.chunk.css.map",
-    "static/media/style.scss": "/mahjong-space/static/media/tilesheet-veryhigh.09c5f9a7.png"
+    "main.css": "/Mahjong-Space/static/css/main.8ab7ebcc.chunk.css",
+    "main.js": "/Mahjong-Space/static/js/main.9e1b90f1.chunk.js",
+    "main.js.map": "/Mahjong-Space/static/js/main.9e1b90f1.chunk.js.map",
+    "runtime-main.js": "/Mahjong-Space/static/js/runtime-main.9150fcf1.js",
+    "runtime-main.js.map": "/Mahjong-Space/static/js/runtime-main.9150fcf1.js.map",
+    "static/js/2.f523dc61.chunk.js": "/Mahjong-Space/static/js/2.f523dc61.chunk.js",
+    "static/js/2.f523dc61.chunk.js.map": "/Mahjong-Space/static/js/2.f523dc61.chunk.js.map",
+    "index.html": "/Mahjong-Space/index.html",
+    "precache-manifest.d793da5c93d101c1be4f1c1628ce0897.js": "/Mahjong-Space/precache-manifest.d793da5c93d101c1be4f1c1628ce0897.js",
+    "service-worker.js": "/Mahjong-Space/service-worker.js",
+    "static/css/main.8ab7ebcc.chunk.css.map": "/Mahjong-Space/static/css/main.8ab7ebcc.chunk.css.map",
+    "static/media/style.scss": "/Mahjong-Space/static/media/tilesheet-veryhigh.09c5f9a7.png"
   }
 }
