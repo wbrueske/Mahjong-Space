@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.ba25a073.chunk.css",
+    "main.css": "./static/css/main.97df69b5.chunk.css",
     "main.js": "./static/js/main.5a6007d1.chunk.js",
     "main.js.map": "./static/js/main.5a6007d1.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.7b453c51.js",
@@ -8,9 +8,9 @@
     "static/js/2.f523dc61.chunk.js": "./static/js/2.f523dc61.chunk.js",
     "static/js/2.f523dc61.chunk.js.map": "./static/js/2.f523dc61.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.442794cf3afb17dafe8044f9e0a4ccf7.js": "./precache-manifest.442794cf3afb17dafe8044f9e0a4ccf7.js",
+    "precache-manifest.249d03cef70f702b23e261490e1e6b75.js": "./precache-manifest.249d03cef70f702b23e261490e1e6b75.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.ba25a073.chunk.css.map": "./static/css/main.ba25a073.chunk.css.map",
+    "static/css/main.97df69b5.chunk.css.map": "./static/css/main.97df69b5.chunk.css.map",
     "static/media/style.scss": "./static/media/tilesheet-veryhigh.09c5f9a7.png"
   }
 }
